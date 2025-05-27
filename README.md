@@ -6,7 +6,7 @@ This project analyzes Netflix data using Python, Pandas, and Matplotlib in a Jup
 
 ## 📁 Dataset
 
-- **Source**: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Source**: [Kaggle - Netflix Movies and TV Shows]([https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/padmapriyatr/netflix-titles))
 - **Format**: CSV
 - **Size**: ~1MB
 
